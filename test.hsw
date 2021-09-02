@@ -1,5 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ApplicationWorkspace>
-  <RecentItems />
+  <RecentItems>
+    <RecentItem Key="36d8132d-4449-435e-a829-6557c1678808.-" IsPinned="false" Type="Innovasys.ContentAuthoring.Topics.RecentTopic" Assembly="Innovasys.ContentAuthoring.Topics">
+      <HandlerName>TOPICS</HandlerName>
+      <Category>Topics</Category>
+    </RecentItem>
+    <RecentItem Key="{887A5E7A-AF8C-46C3-A6E0-03BD69C58192}.-" IsPinned="false" Type="Innovasys.ContentAuthoring.Topics.RecentTopic" Assembly="Innovasys.ContentAuthoring.Topics">
+      <HandlerName>TOPICS</HandlerName>
+      <Category>Topics</Category>
+    </RecentItem>
+  </RecentItems>
   <ProjectProfileApplicationPlugin DesignTimeProjectProfile="7be0dee9-592e-4a3d-a986-6c7e50c06ffa" DesignTimeProjectLocale="-" />
 </ApplicationWorkspace>
