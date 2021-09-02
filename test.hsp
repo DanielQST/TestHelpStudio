@@ -515,13 +515,14 @@
             <PropertyDefinitionValues />
             <ExcludedOtherFiles />
           </Topic>
-          <Topic Id="36d8132d-4449-435e-a829-6557c1678808" Status="New Topic" CreatedOn="2021-09-02T04:12:50.3966858Z" ModifiedOn="2021-09-02T04:13:19.8209146Z" PageTypeName="" AutoIndex="true" HelpContextIds="" Name="testconflicttopic" BuildFlags="">
+          <Topic Id="36d8132d-4449-435e-a829-6557c1678808" Status="New Topic" CreatedOn="2021-09-02T04:12:50.3966858Z" ModifiedOn="2021-09-02T04:19:27.8024704Z" PageTypeName="" AutoIndex="true" HelpContextIds="" Name="testconflicttopic" BuildFlags="">
             <Title m="2021-09-02T04:13:18.1329506Z">test conflict topic</Title>
             <ContentsTitle />
             <Notes></Notes>
             <TopicSections>
               <TopicSection Name="BodyText">
-                <Content m="2021-09-02T04:13:19.8209146Z">&lt;P&gt;this is a test for conflicts&lt;/P&gt;</Content>
+                <Content m="2021-09-02T04:19:27.8004699Z">&lt;P&gt;this is a test for conflicts&lt;/P&gt;
+&lt;P&gt;I have just added an extra line to this topic&lt;/P&gt;</Content>
               </TopicSection>
             </TopicSections>
             <TopicLinks />
