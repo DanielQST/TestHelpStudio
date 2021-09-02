@@ -50,6 +50,7 @@
       <OtherFile Id="12ade811-31ef-44bd-8ed8-050c53afe10c" FileName="Images\RealWorldBullets\2.png" SourceData="" BuildFlags="" />
       <OtherFile Id="49136ddd-f9eb-446d-af03-b877a5aff36f" FileName="Images\RealWorldBullets\3.png" SourceData="" BuildFlags="" />
       <OtherFile Id="a52165d5-326b-4deb-a83b-0243d8ab3475" FileName="Images\RealWorldBullets\4.png" SourceData="" BuildFlags="" />
+      <OtherFile Id="83fe4de6-5499-4f3a-94f0-28baa977639a" FileName="Images\image.png" SourceData="" BuildFlags="" />
     </OtherFiles>
     <DefaultStylesheet></DefaultStylesheet>
     <DefaultCaptureDirectory>images\</DefaultCaptureDirectory>
@@ -515,15 +516,16 @@
             <PropertyDefinitionValues />
             <ExcludedOtherFiles />
           </Topic>
-          <Topic Id="36d8132d-4449-435e-a829-6557c1678808" Status="New Topic" CreatedOn="2021-09-02T04:12:50.3966858Z" ModifiedOn="2021-09-02T04:18:50.4887176Z" PageTypeName="" AutoIndex="true" HelpContextIds="" Name="testconflicttopic" BuildFlags="">
+          <Topic Id="36d8132d-4449-435e-a829-6557c1678808" Status="New Topic" CreatedOn="2021-09-02T04:12:50.3966858Z" ModifiedOn="2021-09-02T04:25:52.7804606Z" PageTypeName="" AutoIndex="true" HelpContextIds="" Name="testconflicttopic" BuildFlags="">
             <Title m="2021-09-02T04:13:18.1329506Z">test conflict topic</Title>
             <ContentsTitle />
             <Notes></Notes>
             <TopicSections>
               <TopicSection Name="BodyText">
-                <Content m="2021-09-02T04:18:50.4887176Z">&lt;P&gt;this is a test for conflicts &lt;/P&gt;
-&lt;P&gt;Im editing something that adam could possibly confilic with&lt;/P&gt;&lt;P&gt;this is a test for conflicts&lt;/P&gt;
-&lt;P&gt;I have just added an extra line to this topic</Content>
+                <Content m="2021-09-02T04:25:52.7804606Z">&lt;P&gt;this is a test for conflicts&lt;/P&gt;
+&lt;P&gt;Im editing something that adam could possibly confilic with&lt;/P&gt;
+&lt;P&gt;this is a test for conflicts&lt;IMG border=0 alt="" src="Images/image.png"&gt;&lt;/P&gt;
+&lt;P&gt;I have just added an extra line to this topic&lt;/P&gt;</Content>
               </TopicSection>
             </TopicSections>
             <TopicLinks />
