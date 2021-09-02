@@ -523,7 +523,7 @@
               <TopicSection Name="BodyText">
                 <Content m="2021-09-02T04:18:50.4887176Z">&lt;P&gt;this is a test for conflicts &lt;/P&gt;
 &lt;P&gt;Im editing something that adam could possibly confilic with&lt;/P&gt;&lt;P&gt;this is a test for conflicts&lt;/P&gt;
-&lt;P&gt;I have just added an extra line to this topic&lt</Content>
+&lt;P&gt;I have just added an extra line to this topic</Content>
               </TopicSection>
             </TopicSections>
             <TopicLinks />
