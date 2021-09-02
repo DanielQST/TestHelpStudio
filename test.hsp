@@ -515,14 +515,15 @@
             <PropertyDefinitionValues />
             <ExcludedOtherFiles />
           </Topic>
-          <Topic Id="36d8132d-4449-435e-a829-6557c1678808" Status="New Topic" CreatedOn="2021-09-02T04:12:50.3966858Z" ModifiedOn="2021-09-02T04:19:27.8024704Z" PageTypeName="" AutoIndex="true" HelpContextIds="" Name="testconflicttopic" BuildFlags="">
+          <Topic Id="36d8132d-4449-435e-a829-6557c1678808" Status="New Topic" CreatedOn="2021-09-02T04:12:50.3966858Z" ModifiedOn="2021-09-02T04:18:50.4887176Z" PageTypeName="" AutoIndex="true" HelpContextIds="" Name="testconflicttopic" BuildFlags="">
             <Title m="2021-09-02T04:13:18.1329506Z">test conflict topic</Title>
             <ContentsTitle />
             <Notes></Notes>
             <TopicSections>
               <TopicSection Name="BodyText">
-                <Content m="2021-09-02T04:19:27.8004699Z">&lt;P&gt;this is a test for conflicts&lt;/P&gt;
-&lt;P&gt;I have just added an extra line to this topic&lt;/P&gt;</Content>
+                <Content m="2021-09-02T04:18:50.4887176Z">&lt;P&gt;this is a test for conflicts &lt;/P&gt;
+&lt;P&gt;Im editing something that adam could possibly confilic with&lt;/P&gt;&lt;P&gt;this is a test for conflicts&lt;/P&gt;
+&lt;P&gt;I have just added an extra line to this topic&lt</Content>
               </TopicSection>
             </TopicSections>
             <TopicLinks />
@@ -748,14 +749,14 @@
         <Caption m="2007-10-10T21:04:29Z">Customers</Caption>
         <ChildTopicCategories />
         <Topics>
-          <Topic Id="{887A5E7A-AF8C-46C3-A6E0-03BD69C58192}" Status="In Progress" CreatedOn="2004-08-23T00:00:00Z" ModifiedOn="2005-07-06T00:00:00Z" PageTypeName="" AutoIndex="true" HelpContextIds="8" Name="CustomerAdd" BuildFlags="">
+          <Topic Id="{887A5E7A-AF8C-46C3-A6E0-03BD69C58192}" Status="In Progress" CreatedOn="2004-08-23T00:00:00Z" ModifiedOn="2021-09-02T04:18:50.4857293Z" PageTypeName="" AutoIndex="true" HelpContextIds="8" Name="CustomerAdd" BuildFlags="">
             <Title m="2007-10-10T21:04:29Z">Adding a customer</Title>
             <ContentsTitle m="2006-07-31T14:06:12Z" />
             <Notes></Notes>
             <TopicSections>
               <TopicSection Name="BodyText">
-                <Content m="2007-10-10T21:06:11Z">&lt;OL&gt;
-&lt;LI&gt;Display the&amp;nbsp;&lt;A href="{632AE989-92D6-4262-8E4E-04719B74E56F}"&gt;customers view&lt;/A&gt; and click the &lt;STRONG&gt;Add&lt;/STRONG&gt; &lt;IMG alt="" src="Images/Commands/RealWorld/RecordsAdd.bmp" border=0&gt; button. &lt;/LI&gt;&lt;/OL&gt;</Content>
+                <Content m="2021-09-02T04:18:50.4857293Z">&lt;OL&gt;
+&lt;LI&gt;Display the&amp;nbsp;&lt;A href="{632AE989-92D6-4262-8E4E-04719B74E56F}"&gt;customers view&lt;/A&gt; and click the &lt;STRONG&gt;Add&lt;/STRONG&gt; &lt;IMG border=0 alt="" src="Images/Commands/RealWorld/RecordsAdd.bmp"&gt; button. &lt;/LI&gt;&lt;/OL&gt;</Content>
               </TopicSection>
             </TopicSections>
             <TopicLinks>
@@ -1860,6 +1861,7 @@
       <Attributes>
         <Attribute key="community_showPrivate" valuetype="boolean">True</Attribute>
         <Attribute key="community_showPublic" valuetype="boolean">True</Attribute>
+        <Attribute key="scrollPosition" valuetype="integer">0</Attribute>
       </Attributes>
     </TopicEditorState>
   </TopicsProjectPlugin>
