@@ -516,7 +516,7 @@
             <PropertyDefinitionValues />
             <ExcludedOtherFiles />
           </Topic>
-          <Topic Id="36d8132d-4449-435e-a829-6557c1678808" Status="New Topic" CreatedOn="2021-09-02T04:12:50.3966858Z" ModifiedOn="2021-09-02T04:25:52.7804606Z" PageTypeName="" AutoIndex="true" HelpContextIds="" Name="testconflicttopic" BuildFlags="">
+          <Topic Id="36d8132d-4449-435e-a829-6557c1678808" Status="New Topic" CreatedOn="2021-09-02T04:12:50.3966858Z" ModifiedOn="2021-09-02T04:26:28.0055072Z" PageTypeName="" AutoIndex="true" HelpContextIds="" Name="testconflicttopic" BuildFlags="">
             <Title m="2021-09-02T04:13:18.1329506Z">test conflict topic</Title>
             <ContentsTitle />
             <Notes></Notes>
@@ -525,7 +525,7 @@
                 <Content m="2021-09-02T04:25:52.7804606Z">&lt;P&gt;this is a test for conflicts&lt;/P&gt;
 &lt;P&gt;Im editing something that adam could possibly confilic with&lt;/P&gt;
 &lt;P&gt;this is a test for conflicts&lt;IMG border=0 alt="" src="Images/image.png"&gt;&lt;/P&gt;
-&lt;P&gt;I have just added an extra line to this topic&lt;/P&gt;</Content>
+&lt;P&gt;I have just added an extra line to this topic&lt;/P&gt;&lt;innovasys:widget type="Caution Box" layout="block"&gt;&lt;innovasys:widgetproperty layout="block" name="Content"&gt;Beware of conflicts&lt;/innovasys:widgetproperty&gt;&lt;/innovasys:widget&gt;</Content>
               </TopicSection>
             </TopicSections>
             <TopicLinks />
